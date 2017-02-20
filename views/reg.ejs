@@ -1,0 +1,29 @@
+<%- include('header') %>
+<div class="layer">
+	<div class="register">
+		<form class="form"  method="post" enctype="multipart/form-data">
+			<p>
+				<input type="text" name="name" class="username" id="username" placeholder="请输入1-10的用户名">
+			</p>			
+			<p>
+				<input type="password" name="password" class="pwd" id="pwd" placeholder="请设置6-16位密码">
+			</p>
+			<p>
+				<input type="password" name="repassword" class="compwd" id="compwd" placeholder="确认密码">
+			</p>
+			<% if (error) { %>
+			  <div class="error codetips">
+			    <div><%= error %></div>
+			  </div>
+			<% } %>
+			<p>
+				<input type="submit" id="reg" value="注册">
+			</p>
+			<div>
+				<a href="/login/" class="logina">&nbsp;&nbsp;已注册用户，直接登录&nbsp;&nbsp;</a>
+			</div>
+		</from>
+	</div>	
+</div>
+<script type="text/javascript" src="/js/reg.js"></script>
+<%- include('footer') %>

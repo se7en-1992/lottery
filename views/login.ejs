@@ -1,0 +1,24 @@
+<%- include('header') %>
+<div class="layer">
+	<div class="register">
+		<form class="login" method="post">
+			<p><input type="text" name="name" class="username" placeholder="请输入用户名"></p>
+			<p><input type="password" name="password" class="password" placeholder="请输入密码"></p>
+			<% if (error) { %>
+			  <div class="error codetips">
+			    <div><%= error %></div>
+			  </div>
+			<% } %>
+			<p>
+				<input type="submit" id="loginin" value="登录">
+			</p>
+			<p><span style="font-size:0.6rem;color:#a40000;text-decoration: underline;float: left;" onclick='window.location.href="/reg/"'>立即注册</span><span style="font-size:0.6rem;color:#3bba9f;position: absolute;right: 4.5rem;text-decoration: underline;" onclick='sessionStorage.setItem("url",window.location.href);window.location.href="/";'>返回主頁</span></p>
+		</form>
+	</div>
+</div>
+<% if (success) { %>	
+<script type="text/javascript">				  
+	alert("<%= success %>!");		  		
+</script>
+<% } %>
+<%- include('footer') %>

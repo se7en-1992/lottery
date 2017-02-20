@@ -1,0 +1,57 @@
+<%- include('header') %>
+
+	<!-- 分享至微信、qq等应用时携带的图像-->
+	<div style='width:0px; height:0px; overflow:hidden;'>
+		<img src='/img/login.png' />
+	</div>
+
+	<!-- 首页主体部分-->
+	<section class="container">
+		<div id="wheel">
+			
+		</div>
+		<% if (user) { %>
+			<div id="arrow"></div>
+		<% } else { %>
+			<a href="/login/"><div id="arrow"></div></a>
+		<% } %>
+		<div class="tech">
+			<a href="/">
+				<img src="https://www.cnaviationloan.com/themes/theme_default/media/images/activity/tech.png">
+			</a>
+		</div>
+		<div class="rules">
+			<a href="/rule/"><span id="rule">点我了解活动规则</span></a>
+		</div>
+	</section>
+	
+<% if (success) { %>
+<script type="text/javascript">				  
+	alert("<%= success %>!");
+</script>	
+<% } %>	
+
+<% if (user && money) { %>	
+<script type="text/javascript">				  	
+	var money = <%= money %>;
+	var n = (Number(money)/11111)+1;
+	var str = "@keyframes run {0% {transform: rotate(0deg);}100% { transform: rotate("+(-(3600+((n-1)*40)))+"deg);}}@-webkit-keyframes run {0% {transform: rotate(0deg); }100% { transform: rotate("+(-(3600+((n-1)*40)))+"deg);}}";
+	$("#style").html(str);
+	$("#wheel").css("animation","run 3s 1 ease-in-out forwards");
+	$("#wheel").css("-webkit-animation","run 3s 1 ease-in-out forwards");
+	setTimeout(function(){
+		window.location.href="/result/";
+	},5000);	  		
+</script>
+<% } %>
+<%- include('footer') %>
+
+  	
+		
+			
+		
+		
+		
+
+
+
