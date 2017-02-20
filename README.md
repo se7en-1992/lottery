@@ -96,7 +96,7 @@
     - [结果](https://github.com/se7en-1992/lottery/blob/master/book/4.9%20%E7%BB%93%E6%9E%9C.md)
         - [结果页面设计](https://github.com/se7en-1992/lottery/blob/master/book/4.9%20%E7%BB%93%E6%9E%9C.md#491-结果页面设计)
         - [result.ejs](https://github.com/se7en-1992/lottery/blob/master/book/4.9%20%E7%BB%93%E6%9E%9C.md#492-resultejs)        
-    - [规则](https://github.com/se7en-1992/lottery/blob/master/book/4.10%20%E8%A7%84%E5%88%99.md)
+    - [规则](https://github.com/se7en-1992/lottery/blob/master/book/4.10%20%E8%A7%84%E5%88%99.md)
         - [规则页面设计](https://github.com/se7en-1992/lottery/blob/master/book/4.10%20%E8%A7%84%E5%88%99.md#4101-规则页面设计)
         - [rule.ejs](https://github.com/se7en-1992/lottery/blob/master/book/4.10%20%E8%A7%84%E5%88%99.md#4102-ruleejs)
     - [404页面](https://github.com/se7en-1992/lottery/tree/master/book/4.11%20404%20%E9%A1%B5%E9%9D%A2.md)
