@@ -68,8 +68,8 @@
     - [Express 浅析](https://github.com/se7en-1992/lottery/tree/master/book/3.4%20Express%20%E6%B5%85%E6%9E%90.md)
         - [中间件与 next](https://github.com/se7en-1992/lottery/tree/master/book/3.4%20Express%20%E6%B5%85%E6%9E%90.md#341-中间件与-next)
         - [错误处理](https://github.com/se7en-1992/lottery/tree/master/book/3.4%20Express%20%E6%B5%85%E6%9E%90.md#342-错误处理)
-- 一个简单的博客
-    - [开发环境](https://github.com/se7en-1992/lottery/tree/master/book/4.1%20%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83.md)
+- lottery项目
+    - [开发环境](https://github.com/se7en-1992/lottery/tree/master/book/4.1%20%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83.md)
     - [准备工作](https://github.com/se7en-1992/lottery/tree/master/book/4.2%20%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C.md)
         - [目录结构](https://github.com/se7en-1992/lottery/tree/master/book/4.2%20%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C.md#421-目录结构)
         - [安装依赖模块](https://github.com/se7en-1992/lottery/tree/master/book/4.2%20%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C.md#422-安装依赖模块)
@@ -93,7 +93,12 @@
         - [登出](https://github.com/se7en-1992/lottery/tree/master/book/4.8%20%E7%99%BB%E5%87%BA%E4%B8%8E%E7%99%BB%E5%BD%95.md#481-登出)
         - [登录页](https://github.com/se7en-1992/lottery/tree/master/book/4.8%20%E7%99%BB%E5%87%BA%E4%B8%8E%E7%99%BB%E5%BD%95.md#482-登录页)
         - [登录](https://github.com/se7en-1992/lottery/tree/master/book/4.8%20%E7%99%BB%E5%87%BA%E4%B8%8E%E7%99%BB%E5%BD%95.md#483-登录)
-    
+    - [结果](https://github.com/se7en-1992/lottery/blob/master/book/4.9%20%E7%BB%93%E6%9E%9C.md)
+        - [结果页面设计](https://github.com/se7en-1992/lottery/blob/master/book/4.9%20%E7%BB%93%E6%9E%9C.md#491-结果页面设计)
+        - [result.ejs](https://github.com/se7en-1992/lottery/blob/master/book/4.9%20%E7%BB%93%E6%9E%9C.md#492-resultejs)        
+    - [规则](https://github.com/se7en-1992/lottery/blob/master/book/4.10%20%E8%A7%84%E5%88%99.md)
+        - [规则页面设计](https://github.com/se7en-1992/lottery/blob/master/book/4.10%20%E8%A7%84%E5%88%99.md#4101-规则页面设计)
+        - [rule.ejs](https://github.com/se7en-1992/lottery/blob/master/book/4.10%20%E8%A7%84%E5%88%99.md#4102-ruleejs)
     - [404页面](https://github.com/se7en-1992/lottery/tree/master/book/4.11%20404%20%E9%A1%B5%E9%9D%A2.md)
     - [错误页面](https://github.com/se7en-1992/lottery/tree/master/book/4.12%20%E9%94%99%E8%AF%AF%E9%A1%B5%E9%9D%A2.md)
     - [日志](https://github.com/se7en-1992/lottery/tree/master/book/4.13%20%E6%97%A5%E5%BF%97.md)
