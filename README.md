@@ -68,8 +68,6 @@
     - [Express 浅析](https://github.com/se7en-1992/lottery/tree/master/book/3.4%20Express%20%E6%B5%85%E6%9E%90.md)
         - [中间件与 next](https://github.com/se7en-1992/lottery/tree/master/book/3.4%20Express%20%E6%B5%85%E6%9E%90.md#341-中间件与-next)
         - [错误处理](https://github.com/se7en-1992/lottery/tree/master/book/3.4%20Express%20%E6%B5%85%E6%9E%90.md#342-错误处理)
-
-
 - lottery 项目
     - [开发环境](https://github.com/se7en-1992/lottery/tree/master/book/4.1%20%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83.md)
     - [准备工作](https://github.com/se7en-1992/lottery/tree/master/book/4.2%20%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C.md)
@@ -90,7 +88,7 @@
     - [注册](https://github.com/se7en-1992/lottery/tree/master/book/4.7%20%E6%B3%A8%E5%86%8C.md)
         - [用户模型设计](https://github.com/se7en-1992/lottery/tree/master/book/4.7%20%E6%B3%A8%E5%86%8C.md#471-用户模型设计)
         - [注册页](https://github.com/se7en-1992/lottery/tree/master/book/4.7%20%E6%B3%A8%E5%86%8C.md#472-注册页)
-        - [注册与文件上传](https://github.com/se7en-1992/lottery/tree/master/book/4.7%20%E6%B3%A8%E5%86%8C.md#473-注册与文件上传)
+        - [注册与表单提交](https://github.com/se7en-1992/lottery/tree/master/book/4.7%20%E6%B3%A8%E5%86%8C.md#473-注册与表单提交)
     - [登出与登录](https://github.com/se7en-1992/lottery/tree/master/book/4.8%20%E7%99%BB%E5%87%BA%E4%B8%8E%E7%99%BB%E5%BD%95.md)
         - [登出](https://github.com/se7en-1992/lottery/tree/master/book/4.8%20%E7%99%BB%E5%87%BA%E4%B8%8E%E7%99%BB%E5%BD%95.md#481-登出)
         - [登录页](https://github.com/se7en-1992/lottery/tree/master/book/4.8%20%E7%99%BB%E5%87%BA%E4%B8%8E%E7%99%BB%E5%BD%95.md#482-登录页)
