@@ -92,9 +92,7 @@
     - [登出与登录](https://github.com/se7en-1992/lottery/tree/master/book/4.8%20%E7%99%BB%E5%87%BA%E4%B8%8E%E7%99%BB%E5%BD%95.md)
         - [登出](https://github.com/se7en-1992/lottery/tree/master/book/4.8%20%E7%99%BB%E5%87%BA%E4%B8%8E%E7%99%BB%E5%BD%95.md#481-登出)
         - [登录页](https://github.com/se7en-1992/lottery/tree/master/book/4.8%20%E7%99%BB%E5%87%BA%E4%B8%8E%E7%99%BB%E5%BD%95.md#482-登录页)
-        - [登录](https://github.com/se7en-1992/lottery/tree/master/book/4.8%20%E7%99%BB%E5%87%BA%E4%B8%8E%E7%99%BB%E5%BD%95.md#483-登录)
-    
-    - [结果](https://github.com/se7en-1992/lottery/tree/master/book/4.9%20%E6%96%87%E7%AB%A0.md)
+        - [登录](https://github.com/se7en-1992/lottery/tree/master/book/4.8%20%E7%99%BB%E5%87%BA%E4%B8%8E%E7%99%BB%E5%BD%95.md#483-登录)     - [结果](https://github.com/se7en-1992/lottery/tree/master/book/4.9%20%E6%96%87%E7%AB%A0.md)
         - [文章模型设计](https://github.com/se7en-1992/lottery/tree/master/book/4.9%20%E6%96%87%E7%AB%A0.md#491-文章模型设计)
         - [发表文章](https://github.com/se7en-1992/lottery/tree/master/book/4.9%20%E6%96%87%E7%AB%A0.md#492-发表文章)
         - [主页与文章页](https://github.com/se7en-1992/lottery/tree/master/book/4.9%20%E6%96%87%E7%AB%A0.md#493-主页与文章页)
@@ -103,7 +101,6 @@
         - [留言模型设计](https://github.com/se7en-1992/lottery/tree/master/book/4.10%20%E7%95%99%E8%A8%80.md#4101-留言模型设计)
         - [显示留言](https://github.com/se7en-1992/lottery/tree/master/book/4.10%20%E7%95%99%E8%A8%80.md#4102-显示留言)
         - [发表与删除留言](https://github.com/se7en-1992/lottery/tree/master/book/4.10%20%E7%95%99%E8%A8%80.md#4103-发表与删除留言) 
-        
     - [404页面](https://github.com/se7en-1992/lottery/tree/master/book/4.11%20404%20%E9%A1%B5%E9%9D%A2.md)
     - [错误页面](https://github.com/se7en-1992/lottery/tree/master/book/4.12%20%E9%94%99%E8%AF%AF%E9%A1%B5%E9%9D%A2.md)
     - [日志](https://github.com/se7en-1992/lottery/tree/master/book/4.13%20%E6%97%A5%E5%BF%97.md)
