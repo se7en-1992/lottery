@@ -1,6 +1,6 @@
-## N-blog
+## lottery
 
-使用 Express + MongoDB 搭建多人博客
+使用 NodeJS + Express + MongoDB +上线环境部署 搭建H5抽奖活动页面
 
 ## 开发环境
 
