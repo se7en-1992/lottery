@@ -8,6 +8,25 @@
 - MongoDB: `3.2.10`
 - Express: `4.14.0`
 
+## 中间件
+
+- "config-lite": "1.5.0",
+- "connect-flash": "0.1.1",
+- "connect-mongo": "1.3.2",
+- "cross-env": "3.1.4",
+- "ejs": "2.5.5",
+- "express": "4.14.1",
+- "express-formidable": "1.0.0",
+- "express-session": "1.15.1",
+- "express-winston": "2.2.0",
+- "marked": "0.3.6",
+- "moment": "2.17.1",
+- "mongolass": "2.4.2",
+- "objectid-to-timestamp": "1.3.0",
+- "pm2": "2.4.0",
+- "sha1": "1.1.1",
+- "winston": "2.3.1"
+
 ## 目录
 
 - 开发环境搭建
