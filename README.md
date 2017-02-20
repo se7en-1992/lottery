@@ -57,6 +57,7 @@
         - [npm install](https://github.com/se7en-1992/lottery/tree/master/book/2.6%20npm%20%E4%BD%BF%E7%94%A8%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.md#262-npm-install)
         - [npm scripts](https://github.com/se7en-1992/lottery/tree/master/book/2.6%20npm%20%E4%BD%BF%E7%94%A8%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.md#263-npm-scripts)
         - [npm shrinkwrap ](https://github.com/se7en-1992/lottery/tree/master/book/2.6%20npm%20%E4%BD%BF%E7%94%A8%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.md#264-npm-shrinkwrap)
+
 - Hello, Express
     - [初始化一个 Express 项目](https://github.com/se7en-1992/lottery/tree/master/book/3.1%20%E5%88%9D%E5%A7%8B%E5%8C%96%E4%B8%80%E4%B8%AA%20Express%20%E9%A1%B9%E7%9B%AE.md)
         - [supervisor](https://github.com/se7en-1992/lottery/tree/master/book/3.1%20%E5%88%9D%E5%A7%8B%E5%8C%96%E4%B8%80%E4%B8%AA%20Express%20%E9%A1%B9%E7%9B%AE.md#311-supervisor)
@@ -68,9 +69,9 @@
     - [Express 浅析](https://github.com/se7en-1992/lottery/tree/master/book/3.4%20Express%20%E6%B5%85%E6%9E%90.md)
         - [中间件与 next](https://github.com/se7en-1992/lottery/tree/master/book/3.4%20Express%20%E6%B5%85%E6%9E%90.md#341-中间件与-next)
         - [错误处理](https://github.com/se7en-1992/lottery/tree/master/book/3.4%20Express%20%E6%B5%85%E6%9E%90.md#342-错误处理)
-- lottery 项目
-    - [开发环境](https://github.com/se7en-1992/lottery/tree/master/book/4.1%20%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83.md)
-    - [准备工作](https://github.com/se7en-1992/lottery/tree/master/book/4.2%20%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C.md)
+- lottery 项目 
+	- [开发环境](https://github.com/se7en-1992/lottery/tree/master/book/4.1%20%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83.md)
+	- [准备工作](https://github.com/se7en-1992/lottery/tree/master/book/4.2%20%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C.md)
         - [目录结构](https://github.com/se7en-1992/lottery/tree/master/book/4.2%20%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C.md#421-目录结构)
         - [安装依赖模块](https://github.com/se7en-1992/lottery/tree/master/book/4.2%20%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C.md#422-安装依赖模块)
     - [配置文件](https://github.com/se7en-1992/lottery/tree/master/book/4.3%20%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6.md)
