@@ -89,7 +89,7 @@
     - [注册](https://github.com/se7en-1992/lottery/tree/master/book/4.7%20%E6%B3%A8%E5%86%8C.md)
         - [用户模型设计](https://github.com/se7en-1992/lottery/tree/master/book/4.7%20%E6%B3%A8%E5%86%8C.md#471-用户模型设计)
         - [注册页](https://github.com/se7en-1992/lottery/tree/master/book/4.7%20%E6%B3%A8%E5%86%8C.md#472-注册页)
-        - [注册与表单提交](https://github.com/se7en-1992/lottery/tree/master/book/4.7%20%E6%B3%A8%E5%86%8C.md#473-注册与表单提交)
+	- [注册与表单提交](https://github.com/se7en-1992/lottery/tree/master/book/4.7%20%E6%B3%A8%E5%86%8C.md#473-注册与表单提交)
     - [登出与登录](https://github.com/se7en-1992/lottery/tree/master/book/4.8%20%E7%99%BB%E5%87%BA%E4%B8%8E%E7%99%BB%E5%BD%95.md)
         - [登出](https://github.com/se7en-1992/lottery/tree/master/book/4.8%20%E7%99%BB%E5%87%BA%E4%B8%8E%E7%99%BB%E5%BD%95.md#481-登出)
         - [登录页](https://github.com/se7en-1992/lottery/tree/master/book/4.8%20%E7%99%BB%E5%87%BA%E4%B8%8E%E7%99%BB%E5%BD%95.md#482-登录页)
