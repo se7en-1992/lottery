@@ -10,3 +10,14 @@ http://182.254.151.85/<br>
 - Node.js: `6.9.1`
 - MongoDB: `3.2.10`
 - Express: `4.14.0`
+
+```bash
+git clone https://github.com/se7en-1992/lottery.git
+
+cd lottery
+
+# install dependencies
+npm install # Or yarn install*[see note below]
+
+npm run dev
+```
