@@ -21,3 +21,7 @@ npm install # Or yarn install*[see note below]
 
 npm run dev
 ```
+## 详细教程
+
+
+ [请点击此处](https://github.com/se7en-1992/lottery/tree/master/book)
